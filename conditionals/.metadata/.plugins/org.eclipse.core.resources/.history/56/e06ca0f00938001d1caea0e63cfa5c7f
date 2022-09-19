@@ -1,0 +1,14 @@
+package miniProjectFriendNumber;
+
+public class Main {
+
+	public static void main(String[] args) {
+		//220-284
+		
+		int number1=220;
+		int number2=284;
+		
+
+	}
+
+}

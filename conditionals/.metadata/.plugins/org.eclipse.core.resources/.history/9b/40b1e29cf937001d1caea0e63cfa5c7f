@@ -1,0 +1,15 @@
+package strings;
+
+public class Main {
+
+	public static void main(String[] args) {
+		String message = "the weather is very nice today";
+		
+		System.out.println(message);
+		System.out.println("Number of element : " + message.length());
+		System.out.println("5th element : "+message.charAt(4));
+		System.out.println(message.concat("Its beautiful!"));
+
+	}
+
+}

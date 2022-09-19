@@ -1,0 +1,21 @@
+package multiDimentionalArray;
+
+public class Main {
+
+	public static void main(String[] args) {
+		String[][] cities = new String[3][3];
+		
+		cities[0][0]="İstanbul";
+		cities[0][1]="İstanbul";
+		cities[0][2]="İstanbul";
+		cities[1][0]="İstanbul";
+		cities[1][1]="İstanbul";
+		cities[1][2]="İstanbul";
+		cities[2][0]="İstanbul";
+		cities[2][1]="İstanbul";
+		cities[2][2]="İstanbul";
+				
+
+	}
+
+}

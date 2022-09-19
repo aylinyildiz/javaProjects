@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="org.eclipse.text.quicksearch.internal.ui.QuickSearchDialog.DIALOG_SETTINGS">
+		<item key="LAST_QUERY" value="&#x0D;&#x0A;public class Main {&#x0D;&#x0A;&#x0D;&#x0A;&#x09;public static void main(String[] args) {&#x0D;&#x0A;&#x09;&#x09;char grade = &apos;A&apos;;&#x0D;&#x0A;&#x09;&#x09;&#x0D;&#x0A;&#x09;&#x09;switch(grade) {&#x0D;&#x0A;&#x09;&#x09;case &apos;A&apos;:&#x0D;&#x0A;&#x09;&#x09;&#x09;System.out.println(&quot;Excellent : You passed&quot;);&#x0D;&#x0A;&#x09;&#x09;&#x09;break;&#x0D;&#x0A;&#x09;&#x09;case &apos;B&apos;:&#x0D;&#x0A;&#x09;&#x09;&#x09;System.out.println(&quot;Very Good : You passed&quot;);&#x0D;&#x0A;&#x09;&#x09;&#x09;break;&#x0D;&#x0A;&#x09;&#x09;case &apos;C&apos;:&#x0D;&#x0A;&#x09;&#x09;&#x09;System.out.println(&quot;Good : You passed&quot;);&#x0D;&#x0A;&#x09;&#x09;&#x09;break;&#x0D;&#x0A;&#x09;&#x09;case &apos;D&apos;:&#x0D;&#x0A;&#x09;&#x09;&#x09;System.out.println(&quot;Not bad : You passed&quot;);&#x0D;&#x0A;&#x09;&#x09;case &apos;F&apos;:&#x0D;&#x0A;&#x09;&#x09;&#x09;System.out.println(&quot;Failed.&quot;);&#x0D;&#x0A;&#x09;&#x09;&#x09;break;&#x0D;&#x0A;&#x09;&#x09;&#x09;default:&#x0D;&#x0A;&#x09;&#x09;&#x09;&#x09;System.out.println(&quot;You entered an invalid grade.&quot;);&#x0D;&#x0A;&#x09;&#x09;}&#x0D;&#x0A;&#x0D;&#x0A;&#x09;}&#x0D;&#x0A;&#x0D;&#x0A;}&#x0D;&#x0A;"/>
+		<item key="PATH_FILTER" value=""/>
+		<item key="CASE_SENSITIVE" value="true"/>
+		<item key="KEEP_OPEN" value="false"/>
+		<list key="COLUMN_WIDTHS">
+			<item value="40"/>
+			<item value="400"/>
+			<item value="118"/>
+		</list>
+		<list key="SASH_WEIGHTS">
+			<item value="714"/>
+			<item value="285"/>
+		</list>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="428"/>
+			<item key="DIALOG_Y_ORIGIN" value="105"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+	</section>
+</section>

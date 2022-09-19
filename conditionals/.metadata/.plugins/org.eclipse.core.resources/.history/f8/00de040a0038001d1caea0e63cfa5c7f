@@ -1,0 +1,22 @@
+package miniProjectPrimeNumber;
+
+public class Main {
+
+	public static void main(String[] args) {
+		int number = 2;
+		boolean primeNum = true;
+
+		for (int i = 2; i < number; i++) {
+			if (number % i == 0) {
+				primeNum = false;
+			}
+		}
+		if(primeNum) {
+			System.out.println("Prime number");
+		}else {
+			System.out.println("Number is not prime.");
+		}
+
+	}
+
+}

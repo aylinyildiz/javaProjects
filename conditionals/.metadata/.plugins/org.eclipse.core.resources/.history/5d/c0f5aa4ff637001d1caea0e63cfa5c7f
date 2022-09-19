@@ -1,0 +1,11 @@
+package arrays;
+
+public class Main {
+
+	public static void main(String[] args) {
+		String student1 = "Engin";
+		String student2="Derin";
+
+	}
+
+}

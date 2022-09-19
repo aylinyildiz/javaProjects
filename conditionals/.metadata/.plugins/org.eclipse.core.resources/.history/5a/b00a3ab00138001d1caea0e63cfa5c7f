@@ -1,0 +1,14 @@
+package miniProjectVowels;
+
+public class Main {
+
+	public static void main(String[] args) {
+		char letter = 'E';
+		char[] backVowel = {'A', 'I', 'O', 'U'};
+		char[] frontVowel = {'E', 'İ', 'Ö', 'Ü'};
+		
+		
+
+	}
+
+}

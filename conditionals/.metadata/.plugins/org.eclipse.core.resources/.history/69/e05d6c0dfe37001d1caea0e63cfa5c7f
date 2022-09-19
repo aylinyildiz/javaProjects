@@ -1,0 +1,14 @@
+package miniProjectPrimeNumber;
+
+public class Main {
+
+	public static void main(String[] args) {
+		int number = 25;
+
+		for (int i = 0; i < number / 2; i++) {
+
+		}
+
+	}
+
+}
