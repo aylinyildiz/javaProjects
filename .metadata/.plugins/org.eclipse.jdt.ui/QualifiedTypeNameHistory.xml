@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="oop1.Product"/>
+    <fullyQualifiedTypeName name="oop1.IndividualCustomer"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="oop1.CorporateCustomer"/>
+    <fullyQualifiedTypeName name="classes.CustomerManager"/>
+    <fullyQualifiedTypeName name="reCapDemo_Classes.FourOperation"/>
+    <fullyQualifiedTypeName name="classesWithAttributes.Product"/>
+    <fullyQualifiedTypeName name="classesWithAttributes.ProductManager"/>
+</qualifiedTypeNameHistroy>
